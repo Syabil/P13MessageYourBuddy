@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Message Your Buddy</string>
+    <string name="To">To:</string>
+    <string name="content">Content:</string>
+    <string name="btnSend">Send</string>
+    <string name="btnMessage">SEND VIA MESSAGES</string>
+</resources>
